@@ -1,0 +1,6 @@
+﻿token= NjA3OTA3NjQ4MTU5MDg4Njcy.XUmY7Q.ikiDe5sevVj7IbejM0uCnBERM0A
+owner= 537308567275831296
+prefix= @
+game= GamerDiscord
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
